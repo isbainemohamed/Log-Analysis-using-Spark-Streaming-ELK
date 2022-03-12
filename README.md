@@ -5,7 +5,7 @@ The workflow consists of generating continuous log data in a log file. then proc
 in a Dashboard using Kibana.
 
 Here is a small tutorial to run the project on your own machine:
-
+[Project tutorial](https://github.com/isbainemohamed/SparkStreamingProject/blob/main/SparkStreaminProject_Isbaine_Jawhar_Snoussi_Report_final.pdf)
 
 
 This work has been done by : 
