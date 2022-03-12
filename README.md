@@ -9,6 +9,6 @@ Here is a small tutorial to run the project on your own machine:
 
 
 This work has been done by : 
-[Snoussi Amine](https://github.com/Aminos7), [Jawhar Mohammed](https://github.com/javo2) and [Me](https://github.com/isbainemohamed).
+[Snoussi Amine](https://github.com/Aminos7), [Jawhar Mohammed](https://github.com/javo2) , [Labriji Saad](https://github.com/labrijisaad) and [Me](https://github.com/isbainemohamed).
 
 
