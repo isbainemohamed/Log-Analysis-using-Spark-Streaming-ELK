@@ -1,4 +1,4 @@
-# Log Analysis with Spark Streaming, ElasticSearch and Kibana:
+# Log Analysis with Spark Streaming, ElasticSearch and :
 
 This is an academic project which aims to create a data streaming pipeline using Spark Streaming, ElasticSearch and Kibana.
 The workflow consists of generating continuous log data in a log file. then process it using spark streaming, the output is stored with Elastic Search and visualized 
